@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wakisa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java,GO, html & css
-- 💞️ I’m looking to collaborate on java and GO projects
+- 💞️ I’m looking to collaborate on Java and GO projects
 - 📫 How to reach me ... wakielambo@gmail.com
 
 <!---
